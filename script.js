@@ -44,7 +44,7 @@ function send() {
 	bits = []
 data_parse()
 	osc.start();
-	se_t = setInterval(sound,500);
+	se_t = setInterval(sound,1000);
 }
 
 function sound(){
