@@ -77,4 +77,5 @@ for (let i = 0; i < charBinTrans.length; i++) {
 /*DATA PARSING*/
 console.log(text)
 console.log(bits)
+document.getElementById("bin_data_view").innerHTML = bits.join();
 }
