@@ -24,7 +24,6 @@ function setup(){
 	osc.freq(2000);
 
 
-
 }
 
 function draw(){
